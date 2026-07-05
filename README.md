@@ -2,7 +2,7 @@
 
 A production-oriented **FastAPI** application that lets users upload PDF documents and ask natural-language questions **strictly grounded in the uploaded content**.
 
-[![CI](https://github.com/<your-username>/rag-assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/rag-assignment/actions/workflows/ci.yml)
+[![CI](https://github.com/anilsnayak/rag-assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/rag-assignment/actions/workflows/ci.yml)
 
 ---
 
