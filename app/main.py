@@ -9,8 +9,6 @@ Application entry point.
 - Serves the static UI at /ui (root / redirects to /ui).
 """
 
-import os
-
 import logging
 import uuid
 from contextlib import asynccontextmanager

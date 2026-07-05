@@ -1,5 +1,3 @@
-import os
-
 from langchain_chroma import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
